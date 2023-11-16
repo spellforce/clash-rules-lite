@@ -11,3 +11,9 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN,youtubei.googleapis.com
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordstatus.com
