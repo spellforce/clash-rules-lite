@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,oculus
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,steampowered.com
