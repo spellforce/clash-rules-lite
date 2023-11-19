@@ -1,6 +1,9 @@
 payload:
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,twitter
+  - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,oculus
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,steampowered.com
@@ -19,3 +22,9 @@ payload:
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,apache.org
+   # > Telegram
+  - DOMAIN-KEYWORD,telegram,国外流量
+  - DOMAIN-SUFFIX,t.me,国外流量
+  - DOMAIN-SUFFIX,tdesktop.com,国外流量
+  - DOMAIN-SUFFIX,telesco.pe,国外流量
+  - DOMAIN-SUFFIX,t.co
