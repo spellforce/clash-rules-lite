@@ -23,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,apache.org
   - IP-CIDR,31.13.96.192
-   # > Telegram
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tdesktop.com
