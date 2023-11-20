@@ -1,6 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,agemys.org
-  - IP-CIDR,31.13.96.192/28
+  - IP-CIDR,31.13.96.192/26
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
