@@ -1,12 +1,13 @@
 payload:
   - DOMAIN-KEYWORD,age
-  - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,oculus
+  - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
