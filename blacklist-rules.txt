@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,sex
   - DOMAIN-KEYWORD,xvideos
+  - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,madou.club
   - DOMAIN-SUFFIX,wnacg.org
   - DOMAIN-SUFFIX,xhamster.com
